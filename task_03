@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""Module task_03"""
+
+from peanut import BUTTER
+
+JELLY = BUTTER
+
+if __name__ == '__main__':
+    print 'In task 3'
