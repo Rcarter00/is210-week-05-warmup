@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+"""A module named peanut"""
+
+BUTTER = 'I am Truthy'
+OIL = 'i am Falsy'
+
+if __name__ == '__main__':
+    print 'inside peanut'
