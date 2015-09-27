@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """A module named peanut"""
 
-BUTTER = 'I am Truthy'
-OIL = 'i am Falsy'
+BUTTER = True
+OIL = False 
 
 if __name__ == '__main__':
     print 'inside peanut'
